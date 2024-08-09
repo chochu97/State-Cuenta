@@ -1,0 +1,10 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StateCuenta\bin\Debug\StateCuenta.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StateCuenta\bin\Debug\StateCuenta.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StateCuenta\bin\Debug\StateCuenta.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StateCuenta\bin\Debug\Entity.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StateCuenta\bin\Debug\Entity.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StateCuenta\obj\Debug\StateCuenta.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StateCuenta\obj\Debug\StateCuenta.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StateCuenta\obj\Debug\StateCue.1079B41E.Up2Date
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StateCuenta\obj\Debug\StateCuenta.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StateCuenta\obj\Debug\StateCuenta.pdb
